@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './navbar';
+import Home from './components/Home';
+
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
 
 const router = createBrowserRouter([
   {
