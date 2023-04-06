@@ -4,7 +4,7 @@ import '../styles/home.css'
 function Home() {
     return(
         <div className="background">
-            Test
+            ayoooo
         </div>
     )
 }
